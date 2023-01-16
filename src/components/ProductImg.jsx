@@ -31,7 +31,7 @@ export default function ProductImg(){
                 
                     <img 
                     src="../../public/sofa.gif" 
-                    alt="Soja cor de rosa com pé de madeira e pontas douradas" 
+                    alt="Sofa cor de rosa com pé de madeira e pontas douradas" 
                     />
                 </>
             ) :
@@ -50,7 +50,7 @@ export default function ProductImg(){
 
                     <img 
                     src="../../public/sofa.png" 
-                    alt="Soja cor de rosa com pé de madeira e pontas douradas" 
+                    alt="Sofa cor de rosa com pé de madeira e pontas douradas" 
                     />                
                 </>
             )
