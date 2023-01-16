@@ -23,14 +23,14 @@ export default function ProductImg(){
                     className="absolute w-[34px] z-10 left-[409px] mt-2"
                     >
                         <img 
-                            src="../../public/X.svg" 
+                            src="/X.svg" 
                             alt="Close°" 
                             
                         />
                     </button>
                 
                     <img 
-                    src="../../public/sofa.gif" 
+                    src="/sofa.gif" 
                     alt="Sofa cor de rosa com pé de madeira e pontas douradas" 
                     />
                 </>
@@ -42,14 +42,14 @@ export default function ProductImg(){
                         className="absolute w-[34px] z-10 left-[409px] mt-2"
                     >
                         <img 
-                            src="../../public/360.svg" 
+                            src="/360.svg" 
                             alt="360°" 
                             
                         />
                     </button>
 
                     <img 
-                    src="../../public/sofa.png" 
+                    src="sofa.png" 
                     alt="Sofa cor de rosa com pé de madeira e pontas douradas" 
                     />                
                 </>
